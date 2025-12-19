@@ -2,7 +2,7 @@ RPA Task Automations
 -----------------------------------------------------------------------------------
 Download UiPath Studio Desktop Application and Uipath Assistant to make Automations
 ----------------------------------------------------------------------------------
-**Variables and Datatypes Automation**
+**Variables and Datatypes Automation**<br>
 int<br>
 float<br>
 date<br>

@@ -8,7 +8,6 @@ float<br>
 date<br>
 array <br>etc..
 
-
 **Conditional Statements Automation**<br>
 With IF and Else Block
 
@@ -20,8 +19,13 @@ With IF and Else Block
 
 **Selectors**
 
-**etc..**
+**Simple Remainders**
 
+**report sending**
+
+**Email Automation**
+
+**etc..**
 
 Examples Tasks can be accessed from
 https://www.youtube.com/@RampriyaKilari/playlists
